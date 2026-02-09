@@ -1,0 +1,26 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: PriyanshuSingh06
+          outputs: |
+            dist/pacman-contribution-graph.svg
+
+      - name: Deploy to branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
