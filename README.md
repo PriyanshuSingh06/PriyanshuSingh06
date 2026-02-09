@@ -29,12 +29,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyanshuSingh06&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=PriyanshuSingh06&theme=dracula&row=1&column=6" height="150"/>
-</div>
-
+<img src="https://streak-stats.demolab.com?user=PriyanshuSingh06&theme=tokyonight&cache_seconds=1800"/>
 ###
 
 <picture>
@@ -85,6 +80,7 @@ Backend & Cloud Developer building real-world systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh06&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh06&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh06&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh06&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
