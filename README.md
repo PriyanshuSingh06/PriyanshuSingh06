@@ -1,15 +1,12 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,aws,redis,mysql,docker,linux,git" height="60"/>
 </div>
 
-###
+<br>
 
 <div align="center">
-
 <a href="https://linkedin.com/in/priyanshusingh06/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -25,16 +22,19 @@
 <a href="https://www.instagram.com/_priyanshuu_06/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </div>
 
-###
-<img src="https://streak-stats.demolab.com?user=PriyanshuSingh06&theme=tokyonight&cache_seconds=1800"/>
-###
+<br>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/PriyanshuSingh06/PriyanshuSingh06/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyanshuSingh06&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PriyanshuSingh06/PriyanshuSingh06/output/pacman-contribution-graph.svg"/>
+</div>
 
 ---
 
@@ -77,10 +77,7 @@ Backend & Cloud Developer building real-world systems.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh06&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh06&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuSingh06&theme=tokyo-night&hide_border=true"/>
+</div>
