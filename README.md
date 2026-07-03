@@ -16,53 +16,70 @@
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
-Backend developer focused on building reliable, well-tested services with Java and Spring Boot. Comfortable across the stack from data modeling in MySQL/PostgreSQL to deployment on AWS, and currently deepening my knowledge of distributed systems — Kafka, Kubernetes, and microservices architecture.
+<p align="center">
+Backend developer focused on building reliable, well-tested services with Java and Spring Boot.<br/>
+Comfortable across the stack from data modeling in MySQL/PostgreSQL to deployment on AWS,<br/>
+currently deepening my knowledge of distributed systems — Kafka, Kubernetes, and microservices architecture.
+</p>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-**Languages & Frameworks**
-`Java` · `Spring Boot` · `Spring Data JPA` · `Spring Security`
+<p align="center">
+<b>Languages & Frameworks</b><br/>
+Java · Spring Boot · Spring Data JPA · Spring Security
+</p>
 
-**Data & Caching**
-`MySQL` · `PostgreSQL` · `Redis`
+<p align="center">
+<b>Data & Caching</b><br/>
+MySQL · PostgreSQL · Redis
+</p>
 
-**Cloud & DevOps**
-`AWS (EC2, RDS)` · `Docker` · `Linux` · `Nginx`
+<p align="center">
+<b>Cloud & DevOps</b><br/>
+AWS (EC2, RDS) · Docker · Linux · Nginx
+</p>
 
-**Tools**
-`Git` · `GitHub` · `Maven` · `VS Code`
+<p align="center">
+<b>Tools</b><br/>
+Git · GitHub · Maven · VS Code
+</p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,docker,linux,git,github,maven,vscode&perline=6"/>
 </p>
 
-## Currently Learning
+<h2 align="center">Currently Learning</h2>
 
-Kafka · Kubernetes · Microservices architecture · System design
+<p align="center">Kafka · Kubernetes · Microservices architecture · System design</p>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
-**[Arogya Sahayak](#)** — AI-powered medical assistant
-A retrieval-augmented generation (RAG) system pairing a Spring Boot backend with a Python AI engine. Uses LangChain and FAISS for semantic search over medical data, with PostgreSQL for persistence.
-`Spring Boot` `Python` `LangChain` `FAISS` `PostgreSQL`
+<p align="center"><b><a href="#">Arogya Sahayak</a></b> — AI-powered medical assistant<br/>
+A retrieval-augmented generation (RAG) system pairing a Spring Boot backend with a Python AI engine.<br/>
+Uses LangChain and FAISS for semantic search over medical data, with PostgreSQL for persistence.<br/>
+<sub>Spring Boot · Python · LangChain · FAISS · PostgreSQL</sub>
+</p>
 
-**[Task Manager API](#)** — REST API for task management
-CRUD-based task management service built with Spring Boot and Spring Data JPA, backed by MySQL.
-`Spring Boot` `Spring Data JPA` `MySQL` `REST APIs`
+<p align="center"><b><a href="#">Task Manager API</a></b> — REST API for task management<br/>
+CRUD-based task management service built with Spring Boot and Spring Data JPA, backed by MySQL.<br/>
+<sub>Spring Boot · Spring Data JPA · MySQL · REST APIs</sub>
+</p>
 
-**[AWS Cloud Deployment](#)** — Production-style deployment setup
-Containerized deployment pipeline using Docker and Nginx, provisioned on AWS EC2 with RDS and configured security groups.
-`AWS` `Docker` `Nginx` `EC2` `RDS`
+<p align="center"><b><a href="#">AWS Cloud Deployment</a></b> — Production-style deployment setup<br/>
+Containerized deployment pipeline using Docker and Nginx, provisioned on AWS EC2 with RDS and configured security groups.<br/>
+<sub>AWS · Docker · Nginx · EC2 · RDS</sub>
+</p>
 
-**[Bank Management System](#)** — Core Java application
-Console-based banking system demonstrating OOP principles, collections, exception handling, and file I/O.
-`Java` `OOP` `Collections` `File Handling`
+<p align="center"><b><a href="#">Bank Management System</a></b> — Core Java application<br/>
+Console-based banking system demonstrating OOP principles, collections, exception handling, and file I/O.<br/>
+<sub>Java · OOP · Collections · File Handling</sub>
+</p>
 
-> Replace the `#` links above with your actual repository URLs.
+<p align="center"><i>Replace the <code>#</code> links above with your actual repository URLs.</i></p>
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -73,7 +90,15 @@ Console-based banking system demonstrating OOP principles, collections, exceptio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuSingh06&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## Coding Profiles
+<h2 align="center">Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PriyanshuSingh06/PriyanshuSingh06/output/pacman-contribution-graph.svg"/>
+</p>
+
+<p align="center"><i>Generated automatically by the GitHub Action in <code>.github/workflows/pacman.yml</code> — see below.</i></p>
+
+<h2 align="center">Coding Profiles</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/PriyanshuSingh06/">
@@ -87,7 +112,7 @@ Console-based banking system demonstrating OOP principles, collections, exceptio
   </a>
 </p>
 
-> Update these URLs with your actual profile handles.
+<p align="center"><i>Update these URLs with your actual profile handles.</i></p>
 
 ---
 
