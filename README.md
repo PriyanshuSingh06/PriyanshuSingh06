@@ -23,12 +23,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyanshuSingh06&theme=tokyonight"/>
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 Backend & Cloud Developer building real-world systems with Java.
