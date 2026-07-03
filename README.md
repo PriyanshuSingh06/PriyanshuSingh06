@@ -1,78 +1,83 @@
-<!-- Header -->
-<h1 align="center">Priyanshu Singh</h1>
-<p align="center">Software Developer · Spring Boot · AWS · System Design</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/priyanshusingh06">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/PriyanshuSingh06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:singh.priyanshu.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align= "center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,aws,redis,mysql,docker,linux,git" height="60"/>
+</div>
 
----
+<br>
 
-<h2 align="center">About</h2>
+<div align="center">
+<a href="https://linkedin.com/in/priyanshusingh06/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-Backend developer focused on building reliable, well-tested services with Java and Spring Boot.<br/>
-Comfortable across the stack from data modeling in MySQL/PostgreSQL to deployment on AWS,<br/>
-currently deepening my knowledge of distributed systems — Kafka, Kubernetes, and microservices architecture.
-</p>
+<a href="https://github.com/priyanshusingh06">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<h2 align="center">Tech Stack</h2>
+<a href="mailto:singh.priyanshu.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-<b>Languages & Frameworks</b><br/>
-Java · Spring Boot · Spring Data JPA · Spring Security
-</p>
+<a href="https://www.instagram.com/_priyanshuu_06/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</div>
 
-<p align="center">
-<b>Data & Caching</b><br/>
-MySQL · PostgreSQL · Redis
-</p>
+<br>
 
-<p align="center">
-<b>Cloud & DevOps</b><br/>
-AWS (EC2, RDS) · Docker · Linux · Nginx
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyanshuSingh06&theme=tokyonight"/>
+</div>
 
-<p align="center">
-<b>Tools</b><br/>
-Git · GitHub · Maven · VS Code
-</p>
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,aws,docker,linux,git,github,maven,vscode&perline=6"/>
-</p>
-
-<h2 align="center">Currently Learning</h2>
-
-<p align="center">Kafka · Kubernetes · Microservices architecture · System design</p>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh06&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuSingh06&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/PriyanshuSingh06/PriyanshuSingh06/output/pacman-contribution-graph.svg"/>
-</p>
-
-<p align="center"><i>Generated automatically by the GitHub Action in <code>.github/workflows/pacman.yml</code> — see below.</i></p>
+</div>
 
 ---
 
-<p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
+## 👨‍💻 About Me
+Backend & Cloud Developer building real-world systems.
+
+- Node.js backend apps  
+- Redis queues & workers  
+- AWS deployments  
+- System design learning  
+- Preparing for internships  
+
+---
+
+## 🛠 Tech Stack
+**Backend:** Node.js, Express  
+**Database:** MySQL, PostgreSQL  
+**Cloud:** AWS EC2, RDS, S3  
+**Tools:** Git, Docker, Linux  
+
+---
+
+## 🚀 Featured Projects
+
+### 📧 MailFlow – Email Scheduler
+- Redis queue + BullMQ workers  
+- Google OAuth login  
+- Campaign dashboard  
+- Dockerized deployment  
+
+### ☁️ AWS Cloud Deployment Project
+- EC2 + RDS backend  
+- VPC + security groups  
+- Full cloud setup  
+
+### 🤖 AI Chatbot Project
+- LangChain + Llama2  
+- Streamlit UI  
+- Local LLM inference  
+
+---
+
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuSingh06&theme=tokyo-night&hide_border=true"/>
+</div>give the whole code 
