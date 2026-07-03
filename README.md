@@ -67,22 +67,20 @@ Backend & Cloud Developer building real-world systems with Java.
 ## 🚀 Featured Projects
 
 ### 📧 MailFlow – Email Scheduler
-- Spring Boot + Quartz Scheduler for job queues
-- Google OAuth2 login
+- Redis queue + BullMQ workers
+- Google OAuth login
 - Campaign dashboard
 - Dockerized deployment
 
 ### ☁️ AWS Cloud Deployment Project
-- Spring Boot app deployed on EC2 + RDS
+- EC2 + RDS backend
 - VPC + security groups
 - Full cloud setup
 
 ### 🤖 AI Chatbot Project
-- Java backend serving a local LLM via REST API
-- Simple web UI for chat
+- LangChain + Llama2
+- Streamlit UI
 - Local LLM inference
-
-> Swap the project details above with your actual repos, tech, and links.
 
 ---
 
