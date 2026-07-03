@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<div align="center">
+<div align= "center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,aws,redis,mysql,docker,linux,git" height="60"/>
 </div>
 
