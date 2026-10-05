@@ -7,108 +7,188 @@
 <br>
 
 <div align="center">
+
 <a href="https://linkedin.com/in/priyanshusingh06/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/priyanshusingh06">
+
+<a href="https://github.com/PriyanshuSingh06">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:singh.priyanshu.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/_priyanshuu_06/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </div>
 
 <br>
 
+---
+
 ## 👨‍💻 About Me
 
-Backend & Cloud Developer building real-world backend systems with Java and Spring Boot.
+Backend & Cloud Developer building real-world backend systems with **Java and Spring Boot**.
 
-- Core Java & OOP fundamentals
-- Spring Boot REST APIs
-- Spring Data JPA / Hibernate
-- PostgreSQL & MySQL
-- Apache Kafka & event-driven architecture
-- Microservices
-- AWS cloud deployments
-- Docker & Linux
-- System design learning
-- Preparing for backend internships
+- ☕ Core Java & OOP fundamentals
+- 🚀 Spring Boot REST APIs
+- 🗄️ Spring Data JPA / Hibernate
+- 🐘 PostgreSQL & MySQL
+- ⚡ Apache Kafka & Event-Driven Architecture
+- 🔗 Microservices
+- ☁️ AWS Cloud
+- 🐳 Docker & Linux
+- 🧪 JUnit & Backend Testing
+- 🏗️ System Design
+- 💼 Preparing for Backend Developer Internships
 
 ---
 
 ## 🛠 Tech Stack
 
-**Language:** Java
+### 💻 Language
 
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+**Java**
 
-**Database:** PostgreSQL, MySQL, Redis
+### 🚀 Backend
 
-**Messaging:** Apache Kafka
+**Spring Boot • Spring MVC • Spring Data JPA • Hibernate**
 
-**Cloud:** AWS EC2, RDS, S3
+### 🗄️ Database
 
-**Tools:** Maven, Git, Docker, Linux, JUnit
+**PostgreSQL • MySQL • Redis**
 
----
+### ⚡ Messaging & Architecture
 
-## 🚀 Featured Projects
+**Apache Kafka • Microservices • Event-Driven Architecture**
 
-### 💳 Advance Payment Gateway
+### ☁️ Cloud
 
-A Spring Boot payment gateway prototype with Kafka-based event-driven architecture and a separate notification microservice.
+**AWS EC2 • AWS RDS • AWS S3**
 
-- Payment creation with validation and **Idempotency-Key** support
-- Payment processing, retry and refund workflows
-- Payment attempt tracking
-- Payment status state-machine validation
-- Transaction history and audit trail
-- Kafka events for payment status changes
-- Separate **PaymentNotificationService** microservice
-- Webhook processing with HMAC signature verification
-- Duplicate webhook protection
-- PostgreSQL persistence with Flyway migrations
-- Structured exception handling and validation
-- Mock payment processor for simulating provider behavior
+### 🔧 Tools
 
-**Tech:** Java 26, Spring Boot 4, PostgreSQL, Kafka, Flyway, Maven
+**Maven • Git • Docker • Linux • JUnit**
 
 ---
 
-### ☁️ AWS Cloud Deployment Project
+# 🚀 Featured Projects
+
+## 💳 Advance Payment Gateway
+
+A Spring Boot payment gateway prototype implementing a complete simulated payment lifecycle with **Kafka-based event-driven architecture** and a separate notification microservice.
+
+### Features
+
+- 💰 Payment creation and validation
+- 🔑 Idempotency-Key support
+- 🔄 Payment processing and retry mechanism
+- 💳 Mock payment processor
+- 🔁 Payment refund workflow
+- 🧩 Payment state-machine validation
+- 📊 Payment attempt tracking
+- 📝 Transaction history and audit trail
+- ⚡ Kafka payment events
+- 🔗 Separate PaymentNotificationService microservice
+- 🔐 HMAC webhook signature verification
+- 🛡️ Duplicate webhook protection
+- 🗄️ PostgreSQL persistence
+- 🛠️ Flyway database migrations
+- ⚠️ Global exception handling
+- ✅ Request validation
+
+### Payment Lifecycle
+
+```text
+CREATED
+   ↓
+PROCESSING
+   ↓
+SUCCESS ─────→ REFUNDING ─────→ REFUNDED
+   │
+   └──→ FAILED
+          ↓
+        RETRY
+          ↓
+      PROCESSING
+```
+
+### Architecture
+
+```text
+             ┌──────────────────────┐
+             │      Client/API      │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │   Payment Gateway    │
+             │    Spring Boot       │
+             └──────────┬───────────┘
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+              ▼                   ▼
+       ┌─────────────┐     ┌──────────────┐
+       │ PostgreSQL  │     │     Kafka    │
+       └─────────────┘     │ payment-events│
+                           └───────┬──────┘
+                                   │
+                                   ▼
+                       ┌──────────────────────┐
+                       │ Payment Notification │
+                       │      Service         │
+                       └──────────────────────┘
+```
+
+### Tech Stack
+
+**Java 26 • Spring Boot 4 • Spring Data JPA • PostgreSQL • Apache Kafka • Flyway • Maven**
+
+---
+
+## ☁️ AWS Cloud Deployment Project
 
 Cloud deployment project focused on deploying a backend application using AWS infrastructure.
 
-- EC2 application deployment
-- PostgreSQL database using RDS
-- VPC configuration
-- Security groups
-- Cloud-based backend architecture
+### Features
 
-**Tech:** AWS EC2, RDS, VPC, PostgreSQL
+- ☁️ EC2 application deployment
+- 🗄️ PostgreSQL database using RDS
+- 🌐 VPC configuration
+- 🔐 Security Groups
+- 🔗 Cloud-based backend architecture
 
----
+### Tech Stack
 
-### 🤖 AI Chatbot Project
-
-AI chatbot project using local LLM infrastructure and retrieval-based workflows.
-
-- LangChain-based architecture
-- Local LLM inference
-- Llama-based model
-- Streamlit interface
-- Retrieval-Augmented Generation concepts
-
-**Tech:** Python, LangChain, Llama, Streamlit
+**AWS EC2 • AWS RDS • VPC • PostgreSQL**
 
 ---
 
-## 📊 GitHub Activity
+## 🤖 AI Chatbot Project
+
+AI chatbot project exploring **LLM and Retrieval-Augmented Generation** concepts.
+
+### Features
+
+- 🧠 LangChain integration
+- 🤖 Llama-based local LLM
+- 📚 Retrieval-Augmented Generation
+- 💻 Local model inference
+- 🖥️ Streamlit interface
+
+### Tech Stack
+
+**Python • LangChain • Llama • Streamlit**
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuSingh06&theme=tokyo-night&hide_border=true"/>
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh06
